@@ -1,7 +1,7 @@
 ![github_title](https://user-images.githubusercontent.com/64282221/149778849-ec7abccf-e0a8-4405-9d7e-6dcc5e0eccd3.png)
 
 ### Overview
-EvOdNumCheck generates a random matrix and plots two heatmaps accordinly:
+EvOdNumCheck generates a random matrix and plots two heatmaps of this matrix accordinly:
 1. The heatmap is plotted according to values of the cells.
 2. The heatmap is plotted according to even/odd characteristics of cells.
 
