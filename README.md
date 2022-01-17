@@ -21,4 +21,7 @@ _EvOdNumCheck.ipnyb_ script is generated to answer the questions that are given 
 5. Finally, the matrix contains zeros and ones are plotted as 2D heatmap to visualize the even/odd characteristics of the cells. The heatmap is saved with the name of _heatmap_even_odd_ in pdf format at 300 dpi resolution. The file is presented in _Outputs_ folder.
 
 **Note 1:** The first two points are the answer of the first question and the last three points are the answer of the second question.
+
 **Note 2:** This script does not requires any input file. It automatically generates a random matrix and generates heatmaps from this matrix.
+
+**Contact Information:** If you have any question, please contact with burcu.ozden@ibg.edu.tr
