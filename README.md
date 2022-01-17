@@ -8,9 +8,10 @@ EvOdNumCheck generates a random matrix and plots two heatmaps of this matrix acc
 ### Details
 
 EvOdNumCheck repository is generated for International Izmir Biomedicine and Genome Institute MBG6133 Final Exam. The repository has three folders: **_Exam_**, **_Scripts_** and **_Outputs_**. The contents of folders are as follow:
--**_Exam_** folder contains the related exam paper.
--***_Scripts_** folder contains _EvOdNumCheck.ipnyb_ script that generates the outputs of the exam.
--**_Outputs_** folder contains the generated heatmaps as outputs.
+
+- **_Exam_** folder contains the related exam paper.
+- **_Scripts_** folder contains _EvOdNumCheck.ipnyb_ script that generates the outputs of the exam.
+- **_Outputs_** folder contains the generated heatmaps as outputs.
 
 
 _EvOdNumCheck.ipnyb_ script is generated to answer the questions that are given in the exam. The script performs below points in order:
