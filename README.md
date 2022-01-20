@@ -7,9 +7,9 @@ EvOdNumCheck generates a random matrix and plots two heatmaps of this matrix acc
 
 The generated heatmaps are as below:
 
-<img src="https://github.com/BurcuOzden/EvOdNumCheck/files/7902772/heatmap_randomarray.pdf" width="450" /><img src="https://github.com/BurcuOzden/EvOdNumCheck/files/7902789/heatmap_even_odd.pdf" width="450" />
+<img src="https://github.com/BurcuOzden/EvOdNumCheck/files/7902772/heatmap_randomarray.pdf" width="400" /><img src="https://github.com/BurcuOzden/EvOdNumCheck/files/7902789/heatmap_even_odd.pdf" width="400" />
 
-### Details
+### Details the tool
 
 EvOdNumCheck repository is generated for International Izmir Biomedicine and Genome Institute MBG6133 Final Exam. The repository has three folders: **_Exam_**, **_Scripts_** and **_Outputs_**. The contents of folders are as follow:
 
